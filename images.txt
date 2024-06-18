@@ -1,3 +1,4 @@
+fruitbars/simple-one-api
 idootop/mi-gpt:latest
 nginx
 #支持私库
