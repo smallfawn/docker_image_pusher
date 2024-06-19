@@ -1,3 +1,4 @@
+justsong/one-api
 fruitbars/simple-one-api
 idootop/mi-gpt:latest
 nginx
