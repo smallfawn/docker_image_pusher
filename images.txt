@@ -1,4 +1,4 @@
-smallfawn/mi-gpt-web
+smallfawn/mi-gpt-web:latest
 justsong/one-api
 fruitbars/simple-one-api
 idootop/mi-gpt:latest
