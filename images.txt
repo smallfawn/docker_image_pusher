@@ -1,4 +1,5 @@
 smallfawn/mi-gpt-web:latest
+smallfawn/encode
 justsong/one-api
 fruitbars/simple-one-api
 idootop/mi-gpt:latest
