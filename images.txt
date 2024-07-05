@@ -1,4 +1,4 @@
-smallfawn/encode:latest:latest
+smallfawn/encode:latest
 smallfawn/mi-gpt-web:latest
 justsong/one-api
 fruitbars/simple-one-api
