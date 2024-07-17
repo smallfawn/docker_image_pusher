@@ -1,3 +1,4 @@
+smallfawn/verify
 smallfawn/encode
 smallfawn/mi-gpt-web:latest
 justsong/one-api
