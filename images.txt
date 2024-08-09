@@ -1,3 +1,4 @@
+sheyu09/autojdck
 jingy0703/jdck
 alalakaka/jdck
 smallfawn/verify:latest
