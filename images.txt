@@ -1,3 +1,4 @@
+smallfawn/dingdong
 sheyu09/autojdck:2.8.11
 alalakaka/jdck
 smallfawn/verify:latest
