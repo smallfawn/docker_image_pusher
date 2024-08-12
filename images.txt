@@ -1,1 +1,1 @@
-smallfawn/ddd:latest
+smallfawn/ddd
