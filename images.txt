@@ -1,2 +1,3 @@
 --platform=linux/arm64 smallfawn/ddd
 --platform=linux/amd64 smallfawn/ddd
+smallfawn/ddd
