@@ -1,3 +1,1 @@
---platform=linux/arm64 smallfawn/gdgc
---platform=linux/amd64 smallfawn/gdgc
 smallfawn/gdgc
