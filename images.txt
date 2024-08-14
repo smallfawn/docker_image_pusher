@@ -1,1 +1,1 @@
-smallfawn/gdgc:latest
+smallfawn/gdgc
