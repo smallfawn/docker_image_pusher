@@ -1,1 +1,3 @@
-smallfawn/godgoc
+--platform=linux/arm64 smallfawn/godgoc:latest
+--platform=linux/amd64 smallfawn/godgoc:latest
+smallfawn/godgoc:latest
