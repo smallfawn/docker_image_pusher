@@ -1,12 +1,6 @@
 --platform=linux/arm64 smallfawn/godgoc:latest
 --platform=linux/amd64 smallfawn/godgoc:latest
 smallfawn/godgoc
---platform=linux/arm64 smallfawn/godonggocardev:latest
---platform=linux/amd64 smallfawn/godonggocardev:latest
-smallfawn/godonggocardev
 --platform=linux/arm64 smallfawn/ddd:latest
 --platform=linux/amd64 smallfawn/ddd:latest
 smallfawn/ddd
---platform=linux/arm64 smallfawn/godonggocardev:latest
---platform=linux/amd64 smallfawn/godonggocardev:latest
-smallfawn/godonggocardev
