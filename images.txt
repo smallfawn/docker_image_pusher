@@ -1,3 +1,4 @@
+yisier1/npc
 anmour/bncr
 luomubiji/ncqq:latest
 --platform=linux/arm64 smallfawn/godgoc:latest
