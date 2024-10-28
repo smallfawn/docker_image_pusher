@@ -1,3 +1,4 @@
+redis
 yisier1/npc
 anmour/bncr
 luomubiji/ncqq:latest
