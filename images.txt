@@ -1,5 +1,5 @@
 redis
-apocalypsor/dujiaoka:latest
+apocalypsor/dujiaoka
 yisier1/npc
 anmour/bncr
 luomubiji/ncqq:latest
