@@ -1,5 +1,5 @@
-redis
-jiangjuhong/dujiaoka:latest
+redis:alpine
+mariadb:focal
 yisier1/npc
 anmour/bncr
 luomubiji/ncqq:latest
