@@ -1,9 +1,1 @@
 stilleshan/dujiaoka
-redis:alpine
-mariadb:focal
-yisier1/npc
-anmour/bncr
-luomubiji/ncqq:latest
---platform=linux/arm64 smallfawn/godgoc:latest
---platform=linux/amd64 smallfawn/godgoc:latest
-smallfawn/godgoc:latest
