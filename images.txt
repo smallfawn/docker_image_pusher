@@ -1,4 +1,4 @@
-smallfawn/jdjdjd
+smallfawn/jdjdjd:latest
 stilleshan/dujiaoka
 smallfawn/dujiaoka-modify
 
