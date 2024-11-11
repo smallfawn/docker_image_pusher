@@ -1,3 +1,5 @@
 smallfawn/jdjdjd:latest
 stilleshan/dujiaoka
 smallfawn/dujiaoka-modify
+--platform=linux/arm64 smallfawn/jdjdjd:latest
+--platform=linux/amd64 smallfawn/jdjdjd:latest
